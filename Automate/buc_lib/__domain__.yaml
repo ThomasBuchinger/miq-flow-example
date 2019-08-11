@@ -1,0 +1,11 @@
+---
+object_type: domain
+version: 1.0
+object:
+  attributes:
+    description: desc
+    display_name: a
+    enabled: true
+    name: b
+    source: user
+    top_level_namespace: 
