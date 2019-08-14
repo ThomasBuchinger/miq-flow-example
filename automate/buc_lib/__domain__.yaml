@@ -1,0 +1,13 @@
+---
+object_type: domain
+version: 1.0
+object:
+  attributes:
+    enabled: 'true'
+    source: user
+    top_level_namespace: 
+    display_name: feat_test_buc_lib
+    name: feat_test_buc_lib
+    description: Development Branch for feature feat_test_buc_lib
+    priority: 1
+    tenant_id: 1
